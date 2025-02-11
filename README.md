@@ -20,7 +20,7 @@
     <a href="https://www.mysql.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" height="45" /> </a>
-  <img src="https://avatars.githubusercontent.com/u/25699522?s=200&v=4" alt="c" height="45"/>
+  <img src="https://avatars.githubusercontent.com/u/25699522?s=200&v=4" alt="github-avatar" height="45"/>
 </p><be>
 
 <h2>Digital Budges </h2>
